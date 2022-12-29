@@ -1,2 +1,2 @@
 # DiscordSoundBot
-DiscordSoundBot using python
+DiscordSoundBot using Python
